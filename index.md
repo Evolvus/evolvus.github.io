@@ -13,4 +13,4 @@ All our source is licensed under very permissible MIT License. This means you ca
 [You can find more details here](https://choosealicense.com/licenses/mit/)
 
 ## Disclaimer
-Please note that this information about license is just to give you an idea to make an informed choice. We are not lawyers and we provide this information in "as-is" basis and do not make warranties and we explicitly disclaim any liability for damages resulting from using the license information or any of our products.
+Please note that this information about license is just to give you an idea to make an informed choice. We are not lawyers and we provide this information in "as-is" basis and do not make warranties and we explicitly disclaim any liability for damages resulting from using the license information or any of our source code.
